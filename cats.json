@@ -25,7 +25,9 @@
 			"age": "-3"
 		},
 		{
-			"name": "Dave Cat"
+			"photo": "https://cdn.rawgit.com/dletorey/mv-data/783b69b747d4e36cb3a9c26f549510620ac86718/images/me-avatar.jpg",
+			"name": "Dave Cat",
+			"age": "42"
 		}
 	]
 }
